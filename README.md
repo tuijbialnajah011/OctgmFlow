@@ -1,11 +1,15 @@
-<div align="center">
+# Octagram — Octgm Flow
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Android voice dictation built under **Octagram**. Speak from a floating bubble over any app, clean up the text, and paste it directly into WhatsApp or any text field.
 
-  <h1>Built with AI Studio</h2>
+## Setup
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+1. Install `OctgmFlow_v236.apk`.
+2. Allow microphone access, display over other apps, and auto-paste accessibility.
+3. Add an ElevenLabs API key.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+Other options in Settings—including the Octgm Keyboard, Groq AI refinement, custom writing rules, bubble size/opacity, and GitHub release updates—are optional.
 
-</div>
+## Developer
+
+**Tu ij bi Al Najah**
