@@ -35,7 +35,7 @@ jobs:
             num=$((10#$raw_ver))
             major=$((num / 100))
             minor=$((num % 100))
-            tag="v${major}.${minor}"
+            tag=$(printf "v%d.%02d" "$major" "$minor")
           else
             tag="v${raw_ver}"
           fi
@@ -52,6 +52,7 @@ jobs:
           name: "Octgm Flow ${{ steps.meta.outputs.tag }}"
           files: ${{ steps.meta.outputs.apk_file }}
           overwrite_files: true
+          make_latest: true
           body: |
             Octgm Flow ${{ steps.meta.outputs.tag }}
             `${{ steps.meta.outputs.apk_file }}` sha256: `${{ steps.meta.outputs.sha256 }}`
