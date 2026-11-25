@@ -1,7 +1,4 @@
-# Ignore everything in the repository
 /*
-
-# Keep only the root release APK, README, release workflow, and .gitignore visible on GitHub
 !/*.apk
 !README.md
 !.gitignore

@@ -1,15 +1,7 @@
-# Octagram — Octgm Flow
+# Octagram
 
-Android voice dictation built under **Octagram**. Speak from a floating bubble over any app, clean up the text, and paste it directly into WhatsApp or any text field.
+Octagram is an Android voice typing project. You tap a floating bubble over WhatsApp or any other app, talk, and it drops the text straight into the box.
 
-## Setup
+Install `OctgmFlow_v237.apk`, turn on the bubble permissions, and add an ElevenLabs API key. Things like the keyboard, Groq, and bubble sizing are optional in Settings.
 
-1. Install `OctgmFlow_v236.apk`.
-2. Allow microphone access, display over other apps, and auto-paste accessibility.
-3. Add an ElevenLabs API key.
-
-Other options in Settings—including the Octgm Keyboard, Groq AI refinement, custom writing rules, bubble size/opacity, and GitHub release updates—are optional.
-
-## Developer
-
-**Tu ij bi Al Najah**
+Developer: Tu ij bi Al Najah
