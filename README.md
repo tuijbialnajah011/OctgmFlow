@@ -19,7 +19,7 @@ OctgmFlow adds a floating bubble to your screen. Tap it while you're in WhatsApp
 
 ## Installation
 
-1. Download the latest `OctgmFlow_v<version>.apk` from the [Releases](../../releases) page.
+1. Download the latest APK (`OctgmFlow_v242.apk`) from the [Releases](../../releases) page.
 2. Open the file on your device and install it. If prompted, allow installs from unknown sources for your browser or file manager.
 3. Launch OctgmFlow.
 
